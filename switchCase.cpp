@@ -40,6 +40,8 @@ void pilihJurusan() {
     }
 }
 
+void output() {
+
 
 
 
