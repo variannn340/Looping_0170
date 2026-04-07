@@ -47,6 +47,13 @@ void output() {
     cout << "-------------------------------" << endl;
 }
 
+int main() {
+    input();
+    pilihJurusan();
+    output();
+    
+    return 0;
+}
 
 
 
